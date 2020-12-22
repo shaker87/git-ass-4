@@ -1,3 +1,5 @@
 This is second repository
 I am learning git again
 I am creating new repository
+learning something new
+again push something
